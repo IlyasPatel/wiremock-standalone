@@ -1,0 +1,10 @@
+{ 													
+	"request": {									
+		"method": "GET",						
+		"url": "/resource/from/file"			
+	},												
+	"response": {									
+		"status": 200,							
+		"body": "Body from mapping file"		
+	}												
+}													
